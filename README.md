@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **cheshirexlxl/cheshirexlxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Welcome to cheshirexlxl's GitHub!
+
+웹 디자인과 퍼블리싱 경험을 바탕으로  
+프론트엔드와 백엔드까지 확장하며 웹 서비스를 전반적으로 이해하려 노력하고 있습니다.
+
+
+
+## 📫 Contact
+
+✉ cheshire.xlxl@gmail.com  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="20" /> [Notion](https://delirious-mapusaurus-d3a.notion.site/10-b6d209608a7a820dad508140f47a1442)
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-BF0000?style=for-the-badge)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 📂 Projects
+
+### 🎓 [팀프로젝트] 외국어 온라인 강의 튜터매칭 플랫폼
+- Spring Boot, MyBatis, JWT
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheshirexlxl&repo=Team_Project)](https://github.com/cheshirexlxl/Team_Project)
+
+---
+
+### 🍜 [미니프로젝트] 사용자 참여형 맛집 소개 및 리뷰 플랫폼
+- Java, JSP
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=passtal&repo=Mini_Project)](https://github.com/passtal/MSA15_Mini1)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshirexlxl&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheshirexlxl&layout=compact)
+
+

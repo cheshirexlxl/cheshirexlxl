@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ### 🍜 [미니프로젝트] 사용자 참여형 맛집 소개 및 리뷰 플랫폼
 - Java, JSP
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=passtal&repo=Mini_Project)](https://github.com/passtal/MSA15_Mini1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=passtal&repo=MSA15_Mini1)](https://github.com/passtal/MSA15_Mini1)
 
 ---
 

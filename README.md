@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ### 🎓 [팀프로젝트] 외국어 온라인 강의 튜터매칭 플랫폼
 - Spring Boot, MyBatis, JWT
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheshirexlxl&repo=Team_Project)](https://github.com/cheshirexlxl/Team_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheshirexlxl&repo=Team_Project&v=1)](https://github.com/cheshirexlxl/Team_Project)
 
 ---
 

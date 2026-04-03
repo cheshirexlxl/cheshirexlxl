@@ -101,3 +101,8 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cheshirexlxl&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cheshirexlxl&layout=compact)
+
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cheshirexlxl&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cheshirexlxl&layout=compact" height="165"/>
+</p>

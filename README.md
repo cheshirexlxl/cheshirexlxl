@@ -73,14 +73,14 @@ Here are some ideas to get you started:
 ### 🎓 [팀프로젝트] 외국어 온라인 강의 튜터매칭 플랫폼
 - Spring Boot, MyBatis, JWT
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheshirexlxl&repo=Team_Project&v=1)](https://github.com/cheshirexlxl/Team_Project)
+[![Readme Card](https://github-readme-stats-sigma.vercel.app/api/pin/?username=cheshirexlxl&repo=Team_Project&v=1)](https://github.com/cheshirexlxl/Team_Project)
 
 ---
 
 ### 🍜 [미니프로젝트] 사용자 참여형 맛집 소개 및 리뷰 플랫폼
 - Java, JSP
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=passtal&repo=MSA15_Mini1)](https://github.com/passtal/MSA15_Mini1)
+[![Readme Card](https://github-readme-stats-sigma.vercel.app/api/pin/?username=passtal&repo=MSA15_Mini1)](https://github.com/passtal/MSA15_Mini1)
 
 ---
 

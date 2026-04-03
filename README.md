@@ -74,7 +74,6 @@ Here are some ideas to get you started:
 - Spring Boot, MyBatis, JWT
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheshirexlxl&repo=Team_Project&v=1)](https://github.com/cheshirexlxl/Team_Project)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheshirexlxl&repo=Team_Project&cache_seconds=1800)
 
 ---
 

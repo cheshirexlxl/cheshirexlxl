@@ -86,10 +86,12 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshirexlxl&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheshirexlxl&layout=compact)
+-->
 
-![test](https://github-readme-stats.vercel.app/api?username=cheshirexlxl&v=999)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cheshirexlxl&show_icons=true)
 
-![test](https://github-readme-stats-sigma-five.vercel.app/api?username=cheshirexlxl)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cheshirexlxl&layout=compact)
